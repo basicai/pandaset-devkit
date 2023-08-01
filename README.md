@@ -76,7 +76,7 @@ Unpack the archive into any directory on your hard disk. The path will be refere
 ### Setup
 
 1. Create a Python>=3.6 environment with `pip` installed.
-2. Clone the repository `git clone git@github.com:scaleapi/pandaset-devkit.git`
+2. Clone the repository `git clone https://github.com/basicai/pandaset-devkit.git`
 3. `cd` into `pandaset-devkit/python`
 4. Execute `pip install .`
 
